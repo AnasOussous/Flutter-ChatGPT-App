@@ -5,7 +5,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Dev7HD/Flutter_Chat_GPT_App
+   git clone https://github.com/AnasOussous/Flutter-ChatGPT-App.git
    ```
 2. Navigate to the project directory:
    ```sh
