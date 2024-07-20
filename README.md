@@ -9,7 +9,7 @@
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Flutter_Chat_GPT_App
+   cd Flutter_ChatGPT_App
    ```
 3. Add your OpenAi token:
    *Create an `.env` file:*
